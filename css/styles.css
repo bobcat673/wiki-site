@@ -5,5 +5,17 @@
   border: solid black;
 }
 
+#featured {
+  text-align: center;
+  border: 2px;
+  padding-left 5%;
+  padding-right: 5%;
+  border: solid black;
+  background-color: aquamarine;
+}
+
+.col-6 {
+  text-align: center;
+}
 
 
