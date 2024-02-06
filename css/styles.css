@@ -1,21 +1,22 @@
+body {
+  background-color: lightgray;
+}
+
 #searchbar {
   margin: left;
   height: auto;
-  border-width: 2px;
-  border: solid black;
+  padding: auto;
 }
 
-#featured {
+.top-bar {
   text-align: center;
   border: 2px;
-  padding-left 5%;
+  padding-left: 5%;
   padding-right: 5%;
   border: solid black;
   background-color: aquamarine;
 }
 
-.col-6 {
-  text-align: center;
+.content {
+  float: left
 }
-
-
