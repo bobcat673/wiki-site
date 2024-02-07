@@ -17,8 +17,7 @@
 *  HTML
 
 *  CSS
-
-  
+ 
 
 ## Setup/Installation Requirements
 
@@ -33,12 +32,8 @@
 
 None
 
-  
 
 ## License
-
-  
-
   
 
 Copyright (c) _2024_  Aidan Portwood

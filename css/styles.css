@@ -2,7 +2,12 @@ body {
   background-color: lightgray;
 }
 
+#imgright {
+  float: right;
+}
+
 #searchbar {
+  margin-top: 5px;
   margin: left;
   height: auto;
   padding: auto;
